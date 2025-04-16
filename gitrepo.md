@@ -1,1 +1,1 @@
-hello from gitrepo
+adding the lines in git
